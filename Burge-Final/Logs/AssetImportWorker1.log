@@ -391,3 +391,507 @@ Received Import Request.
 Start importing Assets/Materials/Sidewalk_Tiles/Sidewalk_Tiles_Height.png using Guid(0578769737488d241b22e46d81304bb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5498a33471d4dfd823a115e2dc7d5246') in 0.410853 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4524.414829 seconds.
+  path: Assets/PhilipK/pk01/pk01_door01b.mat
+  artifactKey: Guid(d9e302c2b37b66c46a4628fe642d0274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_door01b.mat using Guid(d9e302c2b37b66c46a4628fe642d0274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943037b9c7815ec9be72adde3c2d2ed3') in 2.321805 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/PhilipK/pk01/pk01_thin_wall02b.mat
+  artifactKey: Guid(3e787e639af1f214586b40ab3b533c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_thin_wall02b.mat using Guid(3e787e639af1f214586b40ab3b533c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5d4051413074902c867471451f3b98') in 0.604381 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/PhilipK/pk01/pk01_pan_floor02b.mat
+  artifactKey: Guid(46557ac1abdb0834a9c4cf8ed7959a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_pan_floor02b.mat using Guid(46557ac1abdb0834a9c4cf8ed7959a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9c5880153853213383fbaa9c7755e7') in 0.194040 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/PhilipK/pk01/pk01_thin_wall01a.mat
+  artifactKey: Guid(ebba65974f2bb23499dad8e45ba5e057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_thin_wall01a.mat using Guid(ebba65974f2bb23499dad8e45ba5e057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb616ff943675cc4caee786e21fa3e3') in 0.195647 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/PhilipK/pk01/pk01_floor2b.mat
+  artifactKey: Guid(8527bb18eccf462409d4c49d95cd91a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_floor2b.mat using Guid(8527bb18eccf462409d4c49d95cd91a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97521ead9c902cd1f41c5859c773b0e') in 0.184349 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/PhilipK/pk01/pk01_panel03b.mat
+  artifactKey: Guid(c15c2745445d6ae4cacc9d7c29f6c330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_panel03b.mat using Guid(c15c2745445d6ae4cacc9d7c29f6c330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4218efc028c93570096a88c523480fb') in 0.202773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/PhilipK/pk01/pk01_pan_wall01.mat
+  artifactKey: Guid(0919b216bfded2f4fafc15f47f6111eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_pan_wall01.mat using Guid(0919b216bfded2f4fafc15f47f6111eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '961adca0efdfb7e6915fc9aa1d94fc4b') in 0.187941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/PhilipK/pk01/pk01_pan_floor02a.mat
+  artifactKey: Guid(a57c6f0163756e64e803edad38bf6c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_pan_floor02a.mat using Guid(a57c6f0163756e64e803edad38bf6c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acb316f72db48b47716a5dc9d3d46171') in 0.168742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/PhilipK/pk01/pk01_pan_wall02b 2.mat
+  artifactKey: Guid(101eba7ab2378a94fad8537a18d2da28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_pan_wall02b 2.mat using Guid(101eba7ab2378a94fad8537a18d2da28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735ebb03463c9bc23ac131b567a6815e') in 0.189172 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/PhilipK/pk01/pk01_tile_floor01b.mat
+  artifactKey: Guid(f01c3a88c18bbdb4ea1f49d8a4a8d9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_tile_floor01b.mat using Guid(f01c3a88c18bbdb4ea1f49d8a4a8d9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1714101b4d82259a5029a813099bd94') in 0.210574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/PhilipK/pk01/pk01_pan_floor01a.mat
+  artifactKey: Guid(66d4eaea74d99b643bb51ac7b747f544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_pan_floor01a.mat using Guid(66d4eaea74d99b643bb51ac7b747f544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f522eef996c561634d03827cecb411bb') in 0.207790 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/PhilipK/pk01/pk01_trims01a.mat
+  artifactKey: Guid(6eb6e3387dc1145419dedbf6def8f68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_trims01a.mat using Guid(6eb6e3387dc1145419dedbf6def8f68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '777eeaea2e13d1e1135b57c05cd018c3') in 0.197120 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/PhilipK/pk01/pk01_vent_wall01b.mat
+  artifactKey: Guid(fae51254c18d6274f8e70cdf97bfc0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_vent_wall01b.mat using Guid(fae51254c18d6274f8e70cdf97bfc0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef962246d8484b574e0e386172e499f7') in 0.188585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/PhilipK/pk01/pk01_panel01b.mat
+  artifactKey: Guid(f1e9a68ed82826b47979d60f1b01d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_panel01b.mat using Guid(f1e9a68ed82826b47979d60f1b01d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e836ff281c3210c42bad0e685784698e') in 0.198833 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/PhilipK/pk01/pk01_gra_floor02.mat
+  artifactKey: Guid(852d32dcff99760449213156053d3b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_gra_floor02.mat using Guid(852d32dcff99760449213156053d3b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659d62e5f31a762eeb477fe5f1865015') in 0.200386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/PhilipK/pk01/pk01_panel_small02.mat
+  artifactKey: Guid(764f9c2c24649684d8aa9842a9d6dc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_panel_small02.mat using Guid(764f9c2c24649684d8aa9842a9d6dc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84ba400081cad12f21ad9dfc56b167ab') in 0.191986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 33.865669 seconds.
+  path: Assets/PhilipK/pk01/pk01_vent_wall03.mat
+  artifactKey: Guid(cab79941db687f64794a0b376f7700c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_vent_wall03.mat using Guid(cab79941db687f64794a0b376f7700c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d63c9c303c82600bc0c6564a23ddcb') in 0.193172 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/PhilipK/pk01/pk01_wall01.mat
+  artifactKey: Guid(5cc017ec87923d245a03396d1d6bc701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_wall01.mat using Guid(5cc017ec87923d245a03396d1d6bc701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63c636a594132efa495ce18aeee6e67') in 0.185303 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/PhilipK/pk01/pk01_wall03b.mat
+  artifactKey: Guid(e97b875a0d988e5459d34a2846451fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_wall03b.mat using Guid(e97b875a0d988e5459d34a2846451fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '921ae1f4f3f7039f80ea797c8f63d0c5') in 0.186977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/PhilipK/pk01/pk01_wall03a.mat
+  artifactKey: Guid(ba97f7833ca67af4b88e2153862a2498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_wall03a.mat using Guid(ba97f7833ca67af4b88e2153862a2498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d8ad826a02097d56b6c2197cdb4c770') in 0.160165 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/PhilipK/pk01/pk01_wall04b.mat
+  artifactKey: Guid(96eda9ade36772248afca694068d4703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk01/pk01_wall04b.mat using Guid(96eda9ade36772248afca694068d4703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f8284101571efe702f3c5558e8cf6e') in 0.125379 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 3.767059 seconds.
+  path: Assets/PhilipK/pk02/pk02_ceiling03.mat
+  artifactKey: Guid(79d0b9cf71916bb4fb3369247b3ee186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_ceiling03.mat using Guid(79d0b9cf71916bb4fb3369247b3ee186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506ba5b310ac8c51017ae6d0f1184c8e') in 0.202998 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/PhilipK/pk02/pk02_computer01b.mat
+  artifactKey: Guid(460e4128e2e466547a3084ea3020294a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_computer01b.mat using Guid(460e4128e2e466547a3084ea3020294a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f347edc7e24bf3548c9b42b69d465b2') in 0.199727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor09a.mat
+  artifactKey: Guid(1b2bc76d78f39be4e99158e33ea50dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor09a.mat using Guid(1b2bc76d78f39be4e99158e33ea50dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1107cf94bcefab518b06e95644ad3f0a') in 0.198621 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor03.mat
+  artifactKey: Guid(edda6eb02eab88548925d02d320e6a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor03.mat using Guid(edda6eb02eab88548925d02d320e6a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5efeeb96bd765de4edb6c0e00744de8b') in 0.190779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor08a.mat
+  artifactKey: Guid(786cea72f9ef66745b214ffbb4f152df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor08a.mat using Guid(786cea72f9ef66745b214ffbb4f152df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d2c3eb3a518c5ac796df53bacb3d89') in 0.143896 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/PhilipK/pk02/pk02_computer01a.mat
+  artifactKey: Guid(677a9d3eb9865b940af3f491a6e6d8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_computer01a.mat using Guid(677a9d3eb9865b940af3f491a6e6d8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3a7da6a73d40c2707ed1a4345560e1') in 0.148065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor01.mat
+  artifactKey: Guid(a0c4b0bab40281644adc96163ddb8db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor01.mat using Guid(a0c4b0bab40281644adc96163ddb8db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afee527b4c7bcdca29cc99a1004bb526') in 0.148595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor_cyl01.mat
+  artifactKey: Guid(fb61d4dc30940884f83baf44a7fe25fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor_cyl01.mat using Guid(fb61d4dc30940884f83baf44a7fe25fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85a06aae2d43d4f0216fe9be61209a2') in 0.204180 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor09b.mat
+  artifactKey: Guid(1c7cd305d26171d4a8449c0a1752b41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor09b.mat using Guid(1c7cd305d26171d4a8449c0a1752b41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ace760aaf1a01a403b50c17565bede8') in 0.154326 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/PhilipK/pk02/pk02_door03.mat
+  artifactKey: Guid(18a17da0d39b68c48be4afd7012962f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_door03.mat using Guid(18a17da0d39b68c48be4afd7012962f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c24ea2f913b64cb4f08e0b9bfac4f003') in 0.126661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor07.mat
+  artifactKey: Guid(425df4bae7dffd641beceaab8fbb1910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor07.mat using Guid(425df4bae7dffd641beceaab8fbb1910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2aae1993f140a291925a91e661329c') in 1.273443 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor08b.mat
+  artifactKey: Guid(78e5e0082a84aae42a7d7d5bd4665daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor08b.mat using Guid(78e5e0082a84aae42a7d7d5bd4665daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c4540c339e587061ddad16772741a8') in 0.245065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor02.mat
+  artifactKey: Guid(524ae51c34b8d674bb532225da7a72fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor02.mat using Guid(524ae51c34b8d674bb532225da7a72fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ae95ede89f714d084539286e31180a') in 0.190654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/PhilipK/pk02/pk02_floor06b.mat
+  artifactKey: Guid(f3b3e786c7852584e9c09a07509100a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_floor06b.mat using Guid(f3b3e786c7852584e9c09a07509100a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd399617c6c680ca1b9820f91d109ab1') in 0.196020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PhilipK/pk02/pk02_door02.mat
+  artifactKey: Guid(1a3c34c201786f947b10ce8b432fbe1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_door02.mat using Guid(1a3c34c201786f947b10ce8b432fbe1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e90cf1d417fae5ba9db7b12d9c504820') in 0.172238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 151.387470 seconds.
+  path: Assets/PhilipK/pk02/pk02_generic01a.mat
+  artifactKey: Guid(e0327b245084ac54ea172898ab15905f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_generic01a.mat using Guid(e0327b245084ac54ea172898ab15905f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '267e1a1ffc49d131779626654a0c8af9') in 0.165424 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/PhilipK/pk02/pk02_generic01b.mat
+  artifactKey: Guid(b204f42468bcf5743b3e623c46092875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_generic01b.mat using Guid(b204f42468bcf5743b3e623c46092875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626e9a384b29fcc05525cd3ab6dc04d4') in 0.185175 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/PhilipK/pk02/pk02_light01b.mat
+  artifactKey: Guid(a09a40854db75fb4087eb8e9bb5521bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_light01b.mat using Guid(a09a40854db75fb4087eb8e9bb5521bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0523b1347f4100af8146fea411f9a17e') in 0.213980 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/PhilipK/pk02/pk02_switches01a.mat
+  artifactKey: Guid(50995bbcb50e40e45820500468f3ea0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_switches01a.mat using Guid(50995bbcb50e40e45820500468f3ea0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e253e9b6aa8a9e6d05d9fe86109a256') in 0.192199 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/PhilipK/pk02/pk02_pipes01.mat
+  artifactKey: Guid(075ef5206a7960348ba68d82813e2693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_pipes01.mat using Guid(075ef5206a7960348ba68d82813e2693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67fb69da36de835451ed3e0cdecd6b08') in 0.201528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/PhilipK/pk02/pk02_plates01b.mat
+  artifactKey: Guid(2be85aae243933b41b6d7454b335f504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_plates01b.mat using Guid(2be85aae243933b41b6d7454b335f504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6072a03053bb92639a712d0189c21641') in 0.192607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/PhilipK/pk02/pk02_panels01a.mat
+  artifactKey: Guid(ff8b7da4a68f59547a5692e881097095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_panels01a.mat using Guid(ff8b7da4a68f59547a5692e881097095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '035db18e27b286c591639ae99c7e4e76') in 0.186423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/PhilipK/pk02/pk02_light02b.mat
+  artifactKey: Guid(aebd2f80b0dd6f645a70384830b754e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_light02b.mat using Guid(aebd2f80b0dd6f645a70384830b754e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8088b55463259974ba505cd5baa4b011') in 0.159100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/PhilipK/pk02/pk02_light02a.mat
+  artifactKey: Guid(508275198f73813478f8a8e428c37df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_light02a.mat using Guid(508275198f73813478f8a8e428c37df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98aa0ef951e6b0b41946a0e70450304a') in 0.343840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 14.633921 seconds.
+  path: Assets/PhilipK/pk02/pk02_switches01c.mat
+  artifactKey: Guid(44ba0d07ae5578a49a47c53389cc5836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_switches01c.mat using Guid(44ba0d07ae5578a49a47c53389cc5836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c97175108729fd94c01ceb7a7d72a33') in 0.285719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/PhilipK/pk02/pk02_trim03.mat
+  artifactKey: Guid(aa57fb6b1347c924b91c3661f50bbac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_trim03.mat using Guid(aa57fb6b1347c924b91c3661f50bbac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f5a08eb46c09a696986adc322505d6') in 0.184413 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/PhilipK/pk02/pk02_trim_set01a.mat
+  artifactKey: Guid(87290c63d227e914ab8e753e5d0235f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_trim_set01a.mat using Guid(87290c63d227e914ab8e753e5d0235f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779d1ccfd29c65e7831ea1ec8b92aa80') in 0.179978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PhilipK/pk02/pk02_trim01.mat
+  artifactKey: Guid(b3a41c4d1d176e940a7783bbc5909ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_trim01.mat using Guid(b3a41c4d1d176e940a7783bbc5909ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ae69f90815b4c5e6f12d7e7dcbacbc') in 0.109509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PhilipK/pk02/pk02_trim04a.mat
+  artifactKey: Guid(208034a240465ba47a8b1baaf10075a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_trim04a.mat using Guid(208034a240465ba47a8b1baaf10075a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93bff8c49bdf5033f86a9491fdba645c') in 0.298511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PhilipK/pk02/pk02_trim02.mat
+  artifactKey: Guid(20b7b0f6a0fb7e046a7f1983d7e4e93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_trim02.mat using Guid(20b7b0f6a0fb7e046a7f1983d7e4e93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7e678cc3ad4707f792f1d3333a2fb7') in 0.226273 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 81.074874 seconds.
+  path: Assets/PhilipK/pk02/pk02_trim_set02b.mat
+  artifactKey: Guid(6c7809fb4ddb75a41b5d88eade8daba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_trim_set02b.mat using Guid(6c7809fb4ddb75a41b5d88eade8daba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4893bd649497ea99fd13217aa23f7e46') in 0.207856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/PhilipK/pk02/pk02_wall02b.mat
+  artifactKey: Guid(4c5fe03d50361cc418ad0531261e8256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_wall02b.mat using Guid(4c5fe03d50361cc418ad0531261e8256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7db7479192d3d4fc3e882572df744e0') in 0.201584 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/PhilipK/pk02/pk02_wall03a.mat
+  artifactKey: Guid(b7c007107521b6b40b0aa4b653564f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_wall03a.mat using Guid(b7c007107521b6b40b0aa4b653564f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '862a0b9703e4735149cb461a35776a05') in 0.205409 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PhilipK/pk02/pk02_wall03b.mat
+  artifactKey: Guid(805ab555b22debe41821041b90b0bfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_wall03b.mat using Guid(805ab555b22debe41821041b90b0bfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b9dfc3a715ca5c7038d0154e0e6887') in 0.198786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 30.257216 seconds.
+  path: Assets/PhilipK/pk02/pk02_wall05a.mat
+  artifactKey: Guid(f575f11ff1d15c84391f77c33a1662d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_wall05a.mat using Guid(f575f11ff1d15c84391f77c33a1662d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b387165dbf91412e821ca8009069fc90') in 0.210714 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/PhilipK/pk02/pk02_wall05b.mat
+  artifactKey: Guid(dc058e496dee34f45a3762e5d5b739bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_wall05b.mat using Guid(dc058e496dee34f45a3762e5d5b739bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a4e6ad97f8d56a94ba6d02323b758d') in 0.193583 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/PhilipK/pk02/pk02_wall_big01a.mat
+  artifactKey: Guid(be0179de06869794a857a8ee75107ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_wall_big01a.mat using Guid(be0179de06869794a857a8ee75107ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4154e1d2ce3379b4f039229f1f04e599') in 0.212312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/PhilipK/pk02/pk02_wall07b.mat
+  artifactKey: Guid(3c6ef980747cd8443aa8e8ce36a17f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_wall07b.mat using Guid(3c6ef980747cd8443aa8e8ce36a17f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7c56e02dd11451975b13aadbe6e0aa') in 0.188746 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 60.311525 seconds.
+  path: Assets/PhilipK/pk02/pk02_wall_big02a.mat
+  artifactKey: Guid(6402b5d2046cbc4439c0d458b6ff55f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_wall_big02a.mat using Guid(6402b5d2046cbc4439c0d458b6ff55f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8004a6b241280916f8ccadef4c524fa7') in 0.315947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 136.724949 seconds.
+  path: Assets/PhilipK/pk02/pk02_panels01b.mat
+  artifactKey: Guid(c11d0a8ed4590ea44944eead437e1dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_panels01b.mat using Guid(c11d0a8ed4590ea44944eead437e1dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608a55853c5beae09175a29bf4ffa9fa') in 0.523520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PhilipK/pk02/pk02_switches01c.mat
+  artifactKey: Guid(44ba0d07ae5578a49a47c53389cc5836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_switches01c.mat using Guid(44ba0d07ae5578a49a47c53389cc5836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969071cbd807bc940bc2097be2f777c8') in 0.223011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/PhilipK/pk02/pk02_trim02.mat
+  artifactKey: Guid(20b7b0f6a0fb7e046a7f1983d7e4e93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PhilipK/pk02/pk02_trim02.mat using Guid(20b7b0f6a0fb7e046a7f1983d7e4e93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4dc0770ad9ae82c3e0120fc5bc11dc') in 0.466938 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
